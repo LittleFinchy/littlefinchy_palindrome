@@ -22,7 +22,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+`littlefinchy_palindrome` adds a `palindrome?` method to the `String` class, and can be used as follows:
 
 ## Development
 
